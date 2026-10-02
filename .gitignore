@@ -1,0 +1,4 @@
+# Repo lives in Downloads - track ONLY the game, ignore everything else
+*
+!.gitignore
+!3d.html
